@@ -5,7 +5,7 @@ This project provides scripts to generate and read a list of repositories from a
 ## Prerequisites
 
 - Node.js installed on your machine
-- GitHub personal access token with the necessary permissions
+- GitHub personal access token with the necessary permissions (your personal token should do the trick)
 
 ## Configuration
 
