@@ -12,7 +12,6 @@ This project provides scripts to generate and read a list of repositories from a
 1. Create a `config.js` file in the root directory with the following content:
 
     ```javascript
-    // filepath: /c:/Users/claudiu_maxim/Desktop/ah_repos/config.js
     export const config = {
         authToken: 'your_github_personal_access_token',
         organization: 'your_github_organization',
