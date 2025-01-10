@@ -27,7 +27,7 @@ This project provides scripts to generate and read a list of repositories from a
 
 ### 1. Generate the List of Repositories
 
-The [writeFile.js](http://_vscodecontentref_/1) script generates a list of repositories from the specified GitHub organization and filters them by the specified languages with config/global.js
+The [writeFile.js](http://_vscodecontentref_/1) script generates a list of repositories from the specified GitHub organization and filters them by the specified languages within config/global.js
 
 #### Usage
 
