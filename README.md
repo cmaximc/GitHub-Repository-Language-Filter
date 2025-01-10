@@ -34,7 +34,15 @@ The [writeFile.js](http://_vscodecontentref_/1) script generates a list of repos
 
 ```bash
 node writeFile.js
+```
 
-### 2. Generate the List of Repositories
 
-The [readFile.js](http://_vscodecontentref_/1) will create an Excel file named your_organization-Java-PLSQL.xlsx (or similar, based on your configuration) containing the joined repositories.
+### 2. Read and Join Repositories
+
+The [main/readFile.js](main/readFile.js) script reads the list of repositories created in step 1 and joins them if two languages are found inside the same repository.
+
+#### Usage
+
+```bash
+node readFile.js
+```
