@@ -1,0 +1,16 @@
+{
+  "name": "ah_repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repositories.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
